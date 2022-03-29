@@ -5,3 +5,8 @@ Repositorio de Matias Briones
 ## TODO LIST
 - problemas para cargar datos .json
 - se dejaron planteadas las funciones, falta desarrollar.
+
+## Libreias
+- pandas
+- regex
+- json
