@@ -1,0 +1,1 @@
+# capstone_diagnostico_GIT
